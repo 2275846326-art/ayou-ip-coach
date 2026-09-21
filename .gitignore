@@ -5,3 +5,16 @@
 .DS_Store
 Thumbs.db
 *.bak
+
+# 私有资料与本机工作状态
+02-私核-永不外传/
+06-客户档案/
+.obsidian/
+.workbuddy/
+.codex/
+desktop.ini
+.env
+.env.*
+*.zip
+*.epub
+*.pdf
