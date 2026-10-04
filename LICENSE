@@ -1,3 +1,11 @@
+# 分目录授权范围
+
+- `skills/` 下新增的 AYOU 蒸馏两版及 `tools/build_ayou_variants.py` 为专有作品，保留全部权利，分别见 [skills/LICENSE](skills/LICENSE) 和 [tools/LICENSE](tools/LICENSE)。它们不在下述 CC 授权范围内。
+- 原有公开系统交付物继续遵循原 CC BY-NC-SA 4.0；此前有效授予的许可保持有效。
+- 第三方作品与依赖按各自许可，不因本仓库许可获得额外权利。
+
+---
+
 # 署名—非商业性使用—相同方式共享 4.0 国际（CC BY-NC-SA 4.0）
 
 本作品（ayou-ip-coach 阿柚 IP 陪跑教练系统 · 开源部分）采用

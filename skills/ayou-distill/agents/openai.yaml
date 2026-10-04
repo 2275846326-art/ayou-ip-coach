@@ -1,0 +1,4 @@
+interface:
+  display_name: "ayou 蒸馏"
+  short_description: "从书籍、视频与文章提取方法，保留六层底座并完成执行、测试与版本维护"
+  default_prompt: "使用 $ayou-distill 蒸馏我提供的材料，或审计已有六层蒸馏并转成可测试的执行能力。"
