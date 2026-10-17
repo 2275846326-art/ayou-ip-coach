@@ -1,4 +1,0 @@
-interface:
-  display_name: "ayou 蒸馏 · IP 系统联动"
-  short_description: "保留六层蒸馏与评测，并将知识增量衔接 IP 系统迭代和真实使用反馈"
-  default_prompt: "使用 $ayou-distill-ip-system 蒸馏材料，对照现有 IP 知识系统提出可验证增量并按已有授权完成迭代。"
