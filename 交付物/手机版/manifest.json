@@ -7,8 +7,8 @@
   "publication_revision": "v0.5",
   "upstream_source_sha256": "14d66c840161e7f9a89d33046a4a193db2a1adb4f3f4c697a23ab8e55b1bf031",
   "files": {
-    "SKILL.md": "bc6b949cefd58650265acf8e0f43c4a6e7aec765c95136001083677ef8f1b25e",
-    "references/core.md": "8abb8364919fb023e407b1510d6dcbad312b30f6589964b0a935c3c3c4d6cc5a",
-    "手机启动包.md": "17e58da6dc79696e66092fd6a390e8668e6b68e4660a2c9b04e62464eccd0428"
+    "SKILL.md": "e3c6dd520fef359efd2b29e2b081a324542c13c0b18cf3c86e385b7971a11f0f",
+    "references/core.md": "f8274ab1b80c1b21ad8dd3bdefcc65bef4b570fbe36cb701554c8aa4aa55a9a3",
+    "手机启动包.md": "9122b350feec8a2aef97d08b995d2a502501b8996682701fb5baab9959d5c9ed"
   }
 }
