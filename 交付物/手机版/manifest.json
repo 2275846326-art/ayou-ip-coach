@@ -1,0 +1,14 @@
+{
+  "version": "v0.2.0",
+  "contains_private_dossiers": false,
+  "contains_full_book_library": false,
+  "auto_sync": false,
+  "phone_app_verified": false,
+  "publication_revision": "v0.5",
+  "upstream_source_sha256": "14d66c840161e7f9a89d33046a4a193db2a1adb4f3f4c697a23ab8e55b1bf031",
+  "files": {
+    "SKILL.md": "bc6b949cefd58650265acf8e0f43c4a6e7aec765c95136001083677ef8f1b25e",
+    "references/core.md": "8abb8364919fb023e407b1510d6dcbad312b30f6589964b0a935c3c3c4d6cc5a",
+    "手机启动包.md": "17e58da6dc79696e66092fd6a390e8668e6b68e4660a2c9b04e62464eccd0428"
+  }
+}
