@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "zip_sha256": "87b278e58a24d4556b83cfad7b99150e54baef410fb5d5274cc8ec7c7c4dff6f",
+  "version": "0.1.1",
+  "zip_sha256": "94c39c5ec8fe66444f55a6ae48d7f60ae50e65de21a6f8dbc99c6c0aa55d6792",
   "file_count": 43,
   "capabilities": {
     "keyword_retrieval": "included_requires_dependencies",
@@ -12,8 +12,8 @@
   "source_manifest": {
     "schema": 1,
     "product": "ayou-ip-desktop",
-    "version": "0.1.0",
-    "checker_version": "2.1.1",
+    "version": "0.1.1",
+    "checker_version": "2.2.0",
     "capabilities": {
       "keyword_retrieval": "included_requires_dependencies",
       "semantic_rerank": "optional_models_dependencies_and_validation_required",
@@ -22,7 +22,7 @@
       "private_knowledge_included": false
     },
     "files": {
-      "01-系统交付物/SKILL.md": "c3543ea520e9ab20f0d241cee064e25fc32f0ccccea96168671fda9aed33662c",
+      "01-系统交付物/SKILL.md": "cf75b1a351c6933d47e4842f1bb04381284a89882437cb3120f4dc8ad9053870",
       "01-系统交付物/契约模板.md": "2b371557a59f0700807ccf66d407374450f684f3887d970f27170e61be284011",
       "01-系统交付物/工作流/01-内容生产.md": "53675f2d2ddc0d32db785e5900aaa8e7e407cf181e2f5d91a2bfeed75fca0898",
       "01-系统交付物/工作流/02-AI短片.md": "e8c0219641d1c5dbd813e758dadcc97120898f03f407d6ea756cf432fc5e8b53",
@@ -37,7 +37,7 @@
       "01-系统交付物/手册/08-封面制作标准.md": "5e5ec1eff0c6fbaa3d973ed11f1fda08b857f4d12d03a34f4e6e33517e693f38",
       "01-系统交付物/手册/09-标题提炼标准.md": "ed3ecfacaf3bfeb2bf480a116f0b6da607662208b2e1c265f6e7430de33827e9",
       "01-系统交付物/手册/10-图文内容逻辑.md": "6611209bc8335b79ca84cf09b79fafaae163ecd06380fce0d0a1946ac0edc17b",
-      "01-系统交付物/手册/11-个人口吻与语感校准.md": "35cbdcbcef79acacfeca46916397407bffcac9b02fdb778651498d42f2b42372",
+      "01-系统交付物/手册/11-个人口吻与语感校准.md": "78ae99cbc6c080f7335545763c0ad1ae35efa4c17ea9be4d84c54ef3af2391b9",
       "01-系统交付物/手册/12-内容取材与交付门槛.md": "0cf344e7d64f88124aa660e6ccc376edf7d1e001429f8259d9bebb62780cc0e0",
       "01-系统交付物/手册/README.md": "25e15f8fbced16c4ceee6c40a5a59149dbd405462cdda49f6a2d354446a3cacc",
       "01-系统交付物/手机版/SKILL.md": "e3c6dd520fef359efd2b29e2b081a324542c13c0b18cf3c86e385b7971a11f0f",
@@ -48,7 +48,7 @@
       "07-工作流/技能库/knowledge-engine/references/04-入库门槛.md": "645848e2ef1e8cf795fa3e73171636a95051e40dba2b011d2a33ef793bbee7a8",
       "07-工作流/技能库/knowledge-engine/references/06-调用协议.md": "645848e2ef1e8cf795fa3e73171636a95051e40dba2b011d2a33ef793bbee7a8",
       "07-工作流/技能库/knowledge-engine/references/07-冲突仲裁协议.md": "645848e2ef1e8cf795fa3e73171636a95051e40dba2b011d2a33ef793bbee7a8",
-      "07-工作流/技能构建工具/content_gate.py": "357a934ad8669feb072c1b1fb44ce6bc8d32fe35d11b5f7d006be7f9a8a9d2ab",
+      "07-工作流/技能构建工具/content_gate.py": "5d61f3268520e53ba00f989c371401c99dcb103f245449d2ea4e3278b748a5a6",
       "07-工作流/技能构建工具/ip_bootstrap.py": "002ddc1efd23106a2c0c524365c2a2131808bc077421579a33f6b06566a5dc54",
       "07-工作流/技能构建工具/ip_connect.py": "ee44c67c87aae0672c74781b3625b95a259c6e684db635ae12b2410d6b50ebea",
       "07-工作流/技能构建工具/ip_content.py": "9d978256d282d403c706802fc7a6dae0e2e76bcd36f89a5a81b0ed4bbba973d1",
